@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    border: 10px solid black;
+    padding: 20px;
+    background: url(https://www.joseantonio.com.pe/wp-content/uploads/2019/07/ceviche-de-lenguado-o-pescado-1.jpg);
+    background-position: center;
+}
+.divClass{
+    text-align: center;
+}
+#spanID{
+    font-size: 18px;
+    background: rgb(0, 255, 191);
+    margin: 50px;
+}
+.divClass a{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+img {width: 400px;
+    margin: 10px;
+}
+#thirDiv{
+    height: 600px;
+    width: 500px;
+    background: blue;
+    margin: 30px auto;
+    padding: 50px;
+    border: 10px solid green;
+    
+}
